@@ -34,7 +34,7 @@
 
   "devDependencies": {
 
-    "@sap/ux-specification": "^1.108.15",
+    "@sap/ux-specification": "^1.120.1",
 
     "sqlite3": "^5.0.4"
 
